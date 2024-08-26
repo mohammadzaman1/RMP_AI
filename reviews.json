@@ -1,0 +1,58 @@
+{
+  "reviews": [
+    {
+      "professor": "Dr. John Smith",
+      "review": "Great professor who explains concepts clearly and is always available during office hours.",
+      "subject": "Math",
+      "stars": 5
+    },
+    {
+      "professor": "Dr. Emily Johnson",
+      "review": "Engaging lectures with practical examples, but the grading can be tough.",
+      "subject": "Computer Science",
+      "stars": 4
+    },
+    {
+      "professor": "Dr. Michael Brown",
+      "review": "Provides detailed feedback on assignments, but the workload is heavy.",
+      "subject": "History",
+      "stars": 3
+    },
+    {
+      "professor": "Dr. Sarah Davis",
+      "review": "Very supportive and understanding, especially with first-year students.",
+      "subject": "English",
+      "stars": 5
+    },
+    {
+      "professor": "Dr. Robert Wilson",
+      "review": "Lectures can be a bit dry, but the material covered is important for the exams.",
+      "subject": "Physics",
+      "stars": 3
+    },
+    {
+      "professor": "Dr. Jessica Lee",
+      "review": "Highly knowledgeable and passionate about the subject, but sometimes hard to follow.",
+      "subject": "Chemistry",
+      "stars": 4
+    },
+    {
+      "professor": "Dr. James Martinez",
+      "review": "Assignments are challenging but rewarding, and the professor is approachable.",
+      "subject": "Economics",
+      "stars": 4
+    },
+    {
+      "professor": "Dr. Elizabeth Anderson",
+      "review": "Fantastic professor who makes complex topics easy to understand.",
+      "subject": "Biology",
+      "stars": 5
+    },
+    {
+      "professor": "Dr. William Taylor",
+      "review": "Expect a lot of reading and writing, but it's worth it for the insights you gain.",
+      "subject": "Philosophy",
+      "stars": 4
+    }
+  ]
+}
